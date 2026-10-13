@@ -1,0 +1,7 @@
+Projeto pessoal do Michael (portfólio, marca FICTÍCIA — nada da SOL Internet). Leia D:\Escritorio\demo-yvoty\brief\README.md e produza, em espanhol do Paraguai (voseo), dois arquivos:
+
+1) D:\Escritorio\demo-yvoty\brief\copy-landing.md — copy completo da landing page do Yvoty Café, com seções: Hero (título ≤7 palavras + subtítulo + 2 CTAs: "Ver menú" e "Cómo llegar"), Sobre (3 frases), Menú destacado (6 itens: nombre, descripción de 1 línea, precio en Gs. plausible), Por qué Yvoty (3 diferenciais com título curto + 1 frase), Horarios y ubicación (dirección fictícia em Santa Rita, horários), Testimonios (3, nombre + 1 frase), Footer (Instagram fictício @yvotycafe, WhatsApp fictício). Texto com personalidade, nada genérico.
+
+2) D:\Escritorio\demo-yvoty\brief\roteiro-reel.md — roteiro de um reel 9:16 de 20 s (30 fps) pro Yvoty Café, estilo "pictograma + frase curta" sobre fundo escuro/foto com overlay: 5 telas de ~3,5 s + cierre de 3 s. Por tela: texto em tela (≤6 palavras), ideia visual (ícone/animação), foto de fundo se houver (hero / latte / interior). Objetivo: convidar pra conhecer o café. Cierre: logo + tagline + @yvotycafe.
+
+Não crie código. Quando terminar, reporte com: maestri ask "Maestro" "Opus: brief pronto — <resumo em 3 linhas>"

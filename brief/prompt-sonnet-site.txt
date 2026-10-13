@@ -1,0 +1,9 @@
+Projeto pessoal do Michael pra portfólio (marca FICTÍCIA Yvoty Café — nada da SOL Internet). Leia D:\Escritorio\demo-yvoty\brief\README.md (marca, paleta, fontes) e D:\Escritorio\demo-yvoty\brief\copy-landing.md (todo o texto). Fotos em D:\Escritorio\demo-yvoty\assets\ (foto-hero.png 9:16, foto-latte.png 1:1, foto-interior.png 16:9; se alguma faltar, use um placeholder de gradiente e siga).
+
+Construa a landing page em D:\Escritorio\demo-yvoty\site\ com Vite + React + TypeScript + Tailwind + Framer Motion (npm create vite@latest . -- --template react-ts; instalar dentro do projeto). Requisitos:
+- Uma página, seções na ordem do copy. Hero full-screen com foto-hero e overlay escuro, título em Fraunces, CTAs com hover. Navbar fixa que muda de transparente pra sólida no scroll. Menú em grid de cards com preço. "Por qué Yvoty" com 3 ícones SVG inline. Testimonios em carrossel simples ou grid. Mapa: iframe do Google Maps apontando pra Santa Rita, Paraguay (sem API key). Footer com Instagram e WhatsApp (links fictícios).
+- Animações: fade/slide ao entrar na viewport (whileInView), hover nos cards, parallax leve na hero. Suave, nada exagerado.
+- Mobile first, responsivo até 360 px, sem scroll horizontal. Lighthouse-friendly: imagens com loading lazy, fontes via Google Fonts com display=swap.
+- Logo: wordmark SVG inline "Yvoty" em Fraunces + flor simples de 5 pétalas em terracota; salve também em assets/logo-yvoty.svg.
+- Rodar npm run build sem erro e npx tsc --noEmit limpo. Tirar 2 screenshots (desktop 1440 e mobile 390) com o browser que preferir (ex.: Chrome headless --screenshot) em D:\Escritorio\demo-yvoty\site\screenshots\.
+Ao terminar, reporte com: maestri ask "Maestro" "Sonnet: site pronto — <o que fez, build ok?, caminho dos screenshots, pendências>"

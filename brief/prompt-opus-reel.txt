@@ -1,0 +1,9 @@
+Projeto pessoal do Michael pra portfólio (marca FICTÍCIA Yvoty Café — nada da SOL Internet, não reutilize código nem assets de D:\Escritorio\sol-te-explica). Leia D:\Escritorio\demo-yvoty\brief\README.md e D:\Escritorio\demo-yvoty\brief\roteiro-reel.md. Fotos em D:\Escritorio\demo-yvoty\assets\ (foto-hero.png, foto-latte.png, foto-interior.png; se alguma faltar, use fundo escuro com gradiente e siga).
+
+Crie um projeto Remotion novo em D:\Escritorio\demo-yvoty\reel\ (npx create-video@latest, template blank, TypeScript; instalar só dentro do projeto). Composição "YvotyReel" 1080×1920, 30 fps, 20 s. Requisitos:
+- src/brand/theme.ts com paleta e fontes do README (Fraunces via @remotion/google-fonts, Inter idem).
+- Uma tela por item do roteiro: foto de fundo com Ken Burns leve (escala 1,04→1,10) + overlay escuro, texto grande em Fraunces com entrada spring (palavra por palavra ou linha), 1 pictograma SVG animado por tela (stroke-dashoffset ou spring de escala) coerente com a ideia visual do roteiro. Transições: fade/wipe curto entre telas.
+- Cierre: logo (wordmark "Yvoty" em Fraunces + flor de 5 pétalas terracota, desenhe em SVG) + tagline + @yvotycafe.
+- Sem áudio por enquanto (o Maestro adiciona depois).
+- npx tsc --noEmit limpo e render em D:\Escritorio\demo-yvoty\reel\out\yvoty-reel.mp4 (h264). Extraia 1 frame de cada tela pra out\frames\ pra conferência.
+Ao terminar, reporte com: maestri ask "Maestro" "Opus: reel pronto — <o que fez, render ok?, caminho do mp4 e dos frames, pendências>"
