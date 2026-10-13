@@ -1,0 +1,27 @@
+TÍTULO (sugestão, com acento)
+Sitio web Yvoty Café — landing page + reel
+
+DESCRIÇÃO (colar no campo "Descrição")
+Landing page y reel para Yvoty Café, una cafetería de especialidad en Santa Rita (marca ficticia, proyecto propio para mostrar el proceso completo).
+
+Sitio en vivo: https://mihael033.github.io/Sitio-Web-Yvoty-Cafe/
+Código: https://github.com/Mihael033/Sitio-Web-Yvoty-Cafe
+
+Qué hice:
+• Identidad: paleta, tipografía (Fraunces + Inter) y logo.
+• Copy en español paraguayo: hero, menú con precios, diferenciales, horarios y testimonios.
+• Landing page responsiva con React, TypeScript, Tailwind y Framer Motion: animaciones al scroll, navbar que cambia al bajar, menú en tarjetas, mapa integrado y versión mobile cuidada.
+• Reel vertical de 20 s hecho por código con Remotion: pictogramas animados, fotos con movimiento, música y master de audio.
+• Deploy automático en GitHub Pages con GitHub Actions.
+
+Todo el proceso, de la idea a la entrega, en un día de trabajo.
+
+HABILIDADES (máx. 5 — escolher as que a Workana oferecer)
+React.js · TypeScript · Tailwind CSS · Diseño web / Landing pages · Edición de video
+
+DATA DE CONCLUSÃO
+10-2026
+
+IMAGENS (todas 16:9, < 2 MB)
+Capa: 1-capa-hero.png
+Galeria: 2-galeria-menu.png, 3-galeria-porque.png, 4-galeria-visitanos.png, 5-galeria-mobile.png, 6-galeria-reel.png
