@@ -1,0 +1,14 @@
+TÍTULO
+Yvoty Café — identidad, landing page y reel (proyecto propio)
+
+DESCRIPCIÓN
+Proyecto de marca ficticia para una cafetería de especialidad en Santa Rita. Diseñé la identidad (paleta, tipografía, logo), escribí el copy en español paraguayo, desarrollé la landing page responsiva con React + Tailwind + Framer Motion (animaciones al scroll, menú, mapa, testimonios) y produje un reel vertical de 20 s por código con Remotion: pictogramas animados, fotos con movimiento, música y master de audio. Todo el proceso, de la idea a la entrega.
+
+HABILIDADES / TAGS
+React.js, Typescript, Tailwind CSS, Framer Motion, Remotion, Diseño web, Landing page, Edición de video, Branding
+
+CATEGORÍA
+IT y Programación > Desarrollo web
+
+FECHA
+Octubre 2026

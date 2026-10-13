@@ -1,0 +1,7 @@
+Gere 3 fotos REALISTAS (sem texto, sem logo, sem pessoas reconhecíveis) pra uma cafeteria fictícia "Yvoty Café" em Santa Rita, Alto Paraná, Paraguay. Paleta quente: madeira escura, tons terracota, crema. Golden hour / luz natural suave, lente 35–50 mm, fotorrealismo máximo, textura real. Salve em D:\Escritorio\demo-yvoty\assets\ com estes nomes:
+
+1) foto-hero.png — vertical 9:16 (mínimo 1080×1920): balcão de madeira de uma cafeteria de especialidade, máquina de espresso, xícaras de cerâmica, planta, luz de fim de tarde entrando pela janela.
+2) foto-latte.png — quadrada 1:1 (mínimo 1080×1080): close de um latte com latte art de folha em xícara de cerâmica terracota sobre mesa de madeira, vapor sutil.
+3) foto-interior.png — horizontal 16:9 (mínimo 1920×1080): interior aconchegante, mesas de madeira, tijolo aparente, plantas, pessoas desfocadas ao fundo trabalhando com notebook.
+
+Se der erro 401 do Google, reenvie. Quando terminar, reporte com: maestri ask "Maestro" "Antigravity: fotos prontas — <lista dos arquivos salvos e resolução de cada um>"

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 56" width="220" height="56">
+  <g transform="translate(4 8)">
+    <g fill="#C8602E">
+      <ellipse cx="20" cy="9.5" rx="5.5" ry="9"/>
+      <ellipse cx="20" cy="9.5" rx="5.5" ry="9" transform="rotate(72 20 20)"/>
+      <ellipse cx="20" cy="9.5" rx="5.5" ry="9" transform="rotate(144 20 20)"/>
+      <ellipse cx="20" cy="9.5" rx="5.5" ry="9" transform="rotate(216 20 20)"/>
+      <ellipse cx="20" cy="9.5" rx="5.5" ry="9" transform="rotate(288 20 20)"/>
+    </g>
+    <circle cx="20" cy="20" r="4.5" fill="#F3E9DC"/>
+  </g>
+  <text x="56" y="38" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="34" fill="#2B1A12">Yvoty</text>
+</svg>
